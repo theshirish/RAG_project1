@@ -22,7 +22,7 @@ logger = setup_logger(__name__)
 class DocumentIngestionPipeline:
 
     def __init__(self, chunker=None, embedder=None):
-        logger.info("Initializing DocumentIngestionPipeline")
+        logger.info("Initializing DocumentIngestionPipeline\n")
         self.chunker = chunker or SlidingWindowChunking(
             chunk_size=settings.CHUNK_SIZE, overlap=settings.CHUNK_OVERLAP
         )
@@ -32,20 +32,24 @@ class DocumentIngestionPipeline:
         try:
             path_obj = Path(path)
             file_name = path_obj.name
-            
+
+            print("\n")
             logger.info(f"1. Loading Document.....{file_name}")
             loader = DocumentLoadFactory.get_loader(path_obj)
             text_content = await loader.load()
             logger.info(f"Successfully loaded document: {file_name}")
 
+            print("\n")
             logger.info(f"2. Document Chunking.....{file_name}")
             chunks = await self.chunker.chunk(text_content)
             logger.info(f"Successfully chunked document into {len(chunks)} pieces.")
 
+            print("\n")
             logger.info(f"3. Embeddings.....{file_name}")
             embedded = await self.embedder.get_embedded(chunks)
             logger.info(f"Successfully generated {len(embedded)} embeddings.")
 
+            print("\n")
             logger.info(f"4. Vector Storage.....{file_name}")
             logger.info(f"Successfully completed vector storage for: {file_name}")
             return chunks

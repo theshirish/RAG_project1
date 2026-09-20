@@ -17,6 +17,7 @@ Functions:
 """
 
 from abc import ABC, abstractmethod
+import time
 
 import ollama
 from openai import AsyncOpenAI
@@ -85,11 +86,15 @@ class ModelSelector:
             )
 
         logger.info(f"Generating embeddings for {len(chunks)} chunks using {settings.EMBEDDING_MODEL_SOURCE} model")
-        
+        index = 0
         try:
             for chunk in chunks:
+                index += 1
                 embedded = await model.get_embedding(chunk)
                 vector.append(embedded)
+                percent = (index / len(chunks)) * 100
+                print(f"Progress: {percent:.2f}% for chunk {index} of {len(chunks)}", end="\r")
+                
             logger.info(f"Successfully generated {len(vector)} embeddings.")
         except Exception as e:
             logger.error(f"Error during batch embedding generation: {e}")
