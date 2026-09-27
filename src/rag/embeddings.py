@@ -72,18 +72,21 @@ class HuggingFaceEmbeddings(BaseEmbeddingModel):
 
 class ModelSelector:
     @staticmethod
-    async def get_embedded(chunks: list[str]) -> list[list[float]]:
-        vector = []
-
-        # Instantiate model once
+    def get_model():
         if settings.EMBEDDING_MODEL_SOURCE == "openai":
-            model = OpenAIEmbeddings()
+            return OpenAIEmbeddings()
         elif settings.EMBEDDING_MODEL_SOURCE == "ollama":
-            model = OllamaEmbeddings()
+            return OllamaEmbeddings()
+        # elif settings.EMBEDDING_MODEL_SOURCE == "huggingface":
+        #     return HuggingFaceEmbeddings()
         else:
             raise ValueError(
                 f"Unknown embedding model source: {settings.EMBEDDING_MODEL_SOURCE}"
             )
+    @staticmethod
+    async def get_embedded(chunks: list[str]) -> list[list[float]]:
+        vector = []
+        model = ModelSelector.get_model()
 
         logger.info(f"Generating embeddings for {len(chunks)} chunks using {settings.EMBEDDING_MODEL_SOURCE} model")
         index = 0
@@ -101,3 +104,16 @@ class ModelSelector:
             raise
 
         return vector
+
+    @staticmethod
+    async def get_single_embedding(chunk: str) -> list[float]:
+        model = ModelSelector.get_model()
+        logger.info(f"Generating embedding for a single chunk using {settings.EMBEDDING_MODEL_SOURCE} model")
+        
+        try:
+            embedded = await model.get_embedding(chunk)
+            logger.info(f"Successfully generated embedding for single chunk.")
+            return embedded
+        except Exception as e:
+            logger.error(f"Error generating embedding for single chunk: {e}")
+            raise

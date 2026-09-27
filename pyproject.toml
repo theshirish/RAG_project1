@@ -20,7 +20,11 @@ dependencies = [
     "aiohttp==3.14.3",
     "requests==2.34.2",
     "pytest==9.1.1",
-    "ollama",
+    "ollama==0.4.0",
+    "qdrant-client==1.19.1",
+    "pinecone==10.0.0",
+    "sentence-transformers==5.5.1",
+    "cohere==5.0.0",
 ]
 
 [tool.black]
