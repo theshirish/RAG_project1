@@ -17,6 +17,7 @@ root_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 sys.path.insert(0, root_dir)
 sys.path.insert(0, os.path.join(root_dir, "src"))
 
+from config.settings import settings
 from config.logging_config import setup_logger
 from eval.golden import load_golden_set, run_evaluation, aggregate_metrics
 from eval.judge import LLMJudge
@@ -133,11 +134,20 @@ def generate_report(metrics: dict, thresholds: dict, report_path: str, results: 
 async def main():
     print("==========================================")
     print("Starting Comprehensive RAG Evaluation...")
-    print("==========================================\n")
+    
 
-    golden_path = os.path.join(root_dir, "data", "golden_set_full_GOVTSchemes.jsonl")
+    data_path = settings.DATA_DIRECTORY
+    
+
+    golden_path = os.path.join(root_dir, "data", "golden_data_set_GOVT_Schemes_sample.jsonl")
     thresholds_path = os.path.join(root_dir, "data", "evals", "thresholds.json")
     report_path = os.path.join(root_dir, "docs", "evals", "report.md")
+    
+    print(f"Golden dataset path: \t\t{golden_path}")
+    print(f"Thresholds path: \t\t{thresholds_path}")
+    print(f"Report will be generated at: \t{report_path}")
+    print("==========================================\n")
+  
 
     # Load dataset
     golden_dataset = load_golden_set(golden_path)
@@ -163,7 +173,7 @@ async def main():
     results = await run_evaluation(golden_dataset, pipeline, judge)
 
     # Save all results into a single json file in data/evals
-    evals_dir = os.path.join(root_dir, "data", "evals")
+    evals_dir = os.path.join(root_dir, "data", "evals", "results_"+settings.LLM_SOURCE)
     os.makedirs(evals_dir, exist_ok=True)
     file_path = os.path.join(evals_dir, "all_results.json")
     with open(file_path, "w") as f:

@@ -20,6 +20,7 @@ def load_golden_set(filepath: str) -> List[Dict]:
     # Using a simple JSON parser since the format is a pseudo JSON-list
     # In practice, we'll read it as a single string and parse the list.
     try:
+        print(f"Loading golden set from : {filepath}")
         with open(filepath, "r") as f:
             content = f.read().strip()
             # If the file does not have wrapping brackets, wrap it
@@ -37,14 +38,17 @@ async def run_evaluation(
     results = []
 
     print(f"Starting evaluation on {len(golden_dataset)} items...")
-
+    index = 1
     for item in golden_dataset:
+
+        percent = (index / len(golden_dataset)) * 100
+
         query = item["question"]
         expected_answer = item["ideal_answer"]
         item_level = item.get("level", "unknown")
 
-        print(f"Evaluating [{item['id']}] ({item_level}) - {query[:50]}...")
-
+        print(f"-----Evaluating {index}---{percent:.2f}%----: [{item['id']}] ({item_level}) - {query[:50]}...")
+        index += 1
         # 1. Measure Retrieval Latency & Hit Rate
         t0 = time.time()
         try:

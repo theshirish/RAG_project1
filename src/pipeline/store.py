@@ -39,7 +39,7 @@ class DocumentIngestionPipeline:
             file_type = path_obj.suffix.lstrip(".").lower()
 
             print("\n")
-            logger.info(f"1. Loading Document.....{file_name}")
+            logger.info(f"1. Loading Document..... {path}{file_name}")
             loader = DocumentLoadFactory.get_loader(path_obj)
             text_content = await loader.load()
             logger.info(f"Successfully loaded document: NAME [{file_name}] TYPE [{file_type}]")
