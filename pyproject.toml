@@ -25,6 +25,7 @@ dependencies = [
     "pinecone==10.0.0",
     "sentence-transformers==5.5.1",
     "cohere==5.0.0",
+    "huggingface_hub",
 ]
 
 [tool.black]
