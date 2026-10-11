@@ -1,0 +1,1163 @@
+[
+ {
+  "slug": "essb",
+  "name": "National Livestock Mission: Establishment of State Semen Bank",
+  "scheme_level": "Central",
+  "category": "Agriculture,Rural & Environment, Health & Wellness",
+  "state": null,
+  "field": "application",
+  "excerpt": "After sanctioning the loan, Lender will upload sanction letter on the portal."
+ },
+ {
+  "slug": "cpis",
+  "name": "Coconut Palm Insurance Scheme",
+  "scheme_level": "Central",
+  "category": "Agriculture,Rural & Environment, Banking,Financial Services and Insurance",
+  "state": null,
+  "field": "eligibility",
+  "excerpt": "Note 01: Insurance is for individual palms and not area-based."
+ },
+ {
+  "slug": "dsctawa",
+  "name": "Development Support for Coffee in Traditional Areas: Water Augmentation",
+  "scheme_level": "Central",
+  "category": "Agriculture,Rural & Environment",
+  "state": null,
+  "field": "benefits",
+  "excerpt": "The Unit Cost and the Subsidy Amount are in Rupees (₹)."
+ },
+ {
+  "slug": "agroforestry",
+  "name": "Agroforestry component under RKVY",
+  "scheme_level": "Central",
+  "category": "Agriculture,Rural & Environment",
+  "state": null,
+  "field": "benefits",
+  "excerpt": "The scheme targets to provide following benefits: 1) Adaptation to impact of climate change effects through microclimate moderation, conservation of natural resources and creation of an additional source of livelihood and income opportunities."
+ },
+ {
+  "slug": "aif",
+  "name": "Agriculture Infrastructure Fund",
+  "scheme_level": "Central",
+  "category": "Agriculture,Rural & Environment, Business & Entrepreneurship",
+  "state": null,
+  "field": "benefits",
+  "excerpt": "9) Refinance facility will enable larger role for cooperative banks and RRBs."
+ },
+ {
+  "slug": "wrflsncs-idra",
+  "name": "\"Immediate Death Relief Assistance\" under \"Welfare and Relief for Fishermen During Lean Seasons and Natural Calamities Scheme\"",
+  "scheme_level": "State",
+  "category": "Agriculture,Rural & Environment, Social welfare & Empowerment",
+  "state": "Puducherry",
+  "field": "benefits",
+  "excerpt": "₹ 1,00,000 as immediate death relief assistance for the family (legal heir) of the deceased fisherman, received within 15 days to 3 months from the date of receipt of the application from the affected family."
+ },
+ {
+  "slug": "fsss",
+  "name": "Farm Storage Structure Scheme",
+  "scheme_level": "State",
+  "category": "Agriculture,Rural & Environment",
+  "state": "Gujarat",
+  "field": "eligibility",
+  "excerpt": "Note: In case of joint account, beneficiary farmers shall be entitled to benefit only one of the holders of their land mentioned in 8-A subject to the consent of other account holders."
+ },
+ {
+  "slug": "ifsifnta",
+  "name": "To Increase Fish Seed Production and Inland Fisheries Equipment in Non-Tribal Areas",
+  "scheme_level": "State",
+  "category": "Agriculture,Rural & Environment",
+  "state": "Gujarat",
+  "field": "eligibility",
+  "excerpt": "Applicant should be above 18 years of age."
+ },
+ {
+  "slug": "mbydfvy",
+  "name": "Mukhyamantri Bagwani Mission: Dragon Fruit Vikas Yojana",
+  "scheme_level": "State",
+  "category": "Agriculture,Rural & Environment",
+  "state": "Bihar",
+  "field": "eligibility",
+  "excerpt": "The applicant must have agricultural land a minimum of 0.25 acres (0.1 ha) and a maximum of 10 acres (4 ha)."
+ },
+ {
+  "slug": "piatibft",
+  "name": "Promotion Of Intensive Aquaculture Through Introduction Of Bio-floc Technology During The Year 2021-22",
+  "scheme_level": "State",
+  "category": "Agriculture,Rural & Environment",
+  "state": "Odisha",
+  "field": "eligibility",
+  "excerpt": "If a beneficiary has availed subsidy earlier for installation of Bio-floc unit under different schemes of Government of India and State Government, for less than 6 nos. of tanks, He/ She shall also be eligible to avail further subsidy under this scheme."
+ },
+ {
+  "slug": "apdccsifdsgc",
+  "name": "Assistance for Power Driven Chaff Cutter Scheme under Integrated Fodder Development Scheme (General Category)",
+  "scheme_level": "State",
+  "category": "Agriculture,Rural & Environment",
+  "state": "Gujarat",
+  "field": "documents",
+  "excerpt": "1. Identity proof of the applicant i.e. Aadhaar Card 2. Proof of residence 3. Proof of possessing necessary animals 4. Bank account details of beneficiary 5. Any other documents as required"
+ },
+ {
+  "slug": "dog",
+  "name": "Distribution of Gypsum",
+  "scheme_level": "State",
+  "category": "Agriculture,Rural & Environment",
+  "state": "Tamil Nadu",
+  "field": "application",
+  "excerpt": "Block Level: Submit to the Agricultural Officer or Deputy Agricultural Officer."
+ },
+ {
+  "slug": "marvs",
+  "name": "Meghalaya Agriculture Response Vehicle Scheme",
+  "scheme_level": "State",
+  "category": "Agriculture,Rural & Environment",
+  "state": "Meghalaya",
+  "field": "application",
+  "excerpt": "Step 02: If the applicant is filling the form physically, he/she will need to hand over the required documents to the District Agriculture Office at the Block office."
+ },
+ {
+  "slug": "ksyj",
+  "name": "Kisan Samriddhi Yojana Jharkhand",
+  "scheme_level": "State",
+  "category": "Agriculture,Rural & Environment",
+  "state": "Jharkhand",
+  "field": "documents",
+  "excerpt": "Aadhaar Card. Ration Card (Aadhaar-linked). Proof of Ownership/Access to Land and Water Source. Group/Organization Registration Certificate (if applicable). Mobile Number (Aadhaar-linked). Bank Account Details (Aadhaar-linked)."
+ },
+ {
+  "slug": "mss",
+  "name": "Mini Sprinkler Sanyantr",
+  "scheme_level": "State",
+  "category": "Agriculture,Rural & Environment",
+  "state": "Rajasthan",
+  "field": "eligibility",
+  "excerpt": "Farmers should have at least 0.2 hectares of irrigated cultivable land."
+ },
+ {
+  "slug": "pps",
+  "name": "Plant Protection Scheme",
+  "scheme_level": "State",
+  "category": "Agriculture,Rural & Environment",
+  "state": "Meghalaya",
+  "field": "documents",
+  "excerpt": "1. Passport-size photograph 2. Identity Proof 3. Bank passbook/account details 4. Documents proof of possessing own or leased land 5. Any other document as required"
+ },
+ {
+  "slug": "pcwfsf",
+  "name": "Pipes Carrying Water From Source To Field",
+  "scheme_level": "State",
+  "category": "Agriculture,Rural & Environment",
+  "state": "Tamil Nadu",
+  "field": "documents",
+  "excerpt": "Proof of identity (Aadhar card, Voter ID) Land ownership documents or lease agreement. Bank account details. Caste certificate (if applicable). Women farmer group registration documents (if applicable). Any other documents (if required)."
+ },
+ {
+  "slug": "igndps",
+  "name": "Indira Gandhi National Disability Pension Scheme",
+  "scheme_level": "Central",
+  "category": "Banking,Financial Services and Insurance, Social welfare & Empowerment",
+  "state": null,
+  "field": "eligibility",
+  "excerpt": "The age of the applicant should be 18 years and above."
+ },
+ {
+  "slug": "mssc",
+  "name": "Mahila Samman Savings Certificate",
+  "scheme_level": "Central",
+  "category": "Banking,Financial Services and Insurance, Women and Child",
+  "state": null,
+  "field": "benefits",
+  "excerpt": "The scheme offers an attractive and fixed interest of 7.5% interest compounded quarterly with flexible investment and partial withdrawal options with a maximum ceiling of ₹2,00,000/-."
+ },
+ {
+  "slug": "pcardfhtn",
+  "name": "Primary Cooperative Agriculture and Rural Development Bank: For Handloom and Other Non Farm Sector Activities",
+  "scheme_level": "State",
+  "category": "Banking,Financial Services and Insurance",
+  "state": "Tamil Nadu",
+  "field": "documents",
+  "excerpt": "Identity proof (Aadhaar, PAN card, etc.). Address proof. Proof of agricultural occupation (For handloom and other non-farm sector activities) (if applicable). Any other documents (if required)."
+ },
+ {
+  "slug": "isa",
+  "name": "Insurance Scheme For Artisans Component of the Development of Handicrafts Scheme",
+  "scheme_level": "State",
+  "category": "Banking,Financial Services and Insurance",
+  "state": "Puducherry",
+  "field": "eligibility",
+  "excerpt": "The applicant should be aged between 18 to 60 years."
+ },
+ {
+  "slug": "mksybb",
+  "name": "Mukhyamantri Kanya Suraksha Yojana",
+  "scheme_level": "State",
+  "category": "Banking,Financial Services and Insurance, Women and Child",
+  "state": "Bihar",
+  "field": "benefits",
+  "excerpt": "₹2,000/- is invested as a fixed deposit for each eligible girl child."
+ },
+ {
+  "slug": "pcardbpt",
+  "name": "Primary Cooperative Agriculture and Rural Development Bank: For Power Tiller",
+  "scheme_level": "State",
+  "category": "Banking,Financial Services and Insurance",
+  "state": "Tamil Nadu",
+  "field": "documents",
+  "excerpt": "Identity proof (Aadhaar, PAN card, etc.). Address proof. Proof of Farming (if required). Any other documents (if required)."
+ },
+ {
+  "slug": "bnpfrs",
+  "name": "Bank Loan Processing Fee Reimbursement Scheme",
+  "scheme_level": "Central",
+  "category": "Business & Entrepreneurship",
+  "state": null,
+  "field": "application",
+  "excerpt": "Applicant need to visit the official website https://www.scsthub.in ."
+ },
+ {
+  "slug": "gws",
+  "name": "GROUP WORKSHED SCHEME",
+  "scheme_level": "Central",
+  "category": "Business & Entrepreneurship, Transport & Infrastructure",
+  "state": null,
+  "field": "benefits",
+  "excerpt": "MAXIMUM ADMISSIBLE AREA Shuttleless Looms : 400 Sq.ft / Loom Weaving Preparatory : 40% of Loomage area Dormitory : 125 Sq.ft / Person SUBSIDY CHART S.No."
+ },
+ {
+  "slug": "idex",
+  "name": "Innovations for Defence Excellence",
+  "scheme_level": "Central",
+  "category": "Business & Entrepreneurship",
+  "state": null,
+  "field": "documents",
+  "excerpt": "1) Company Incorporation Certificate, AoA and MoA(in case of Pvt. Ltd./ Public limited company) 2) DPIIT registration/valid MSME certificate 3) Latest Audited Balance Sheet, ITR, P&L statements of the Company, if applicable 4) Govt. Issued ID Card of applicant"
+ },
+ {
+  "slug": "epscpl",
+  "name": "National Livestock Mission: Genetic Improvement of Pig breeds - Establishment of Pig Semen Collection and Processing Lab",
+  "scheme_level": "Central",
+  "category": "Business & Entrepreneurship, Agriculture,Rural & Environment",
+  "state": null,
+  "field": "documents",
+  "excerpt": "1. Agency Details 2. Project Proposal Details 3. Detailed Cost Estimate 4. Proof of Land Ownership or Lease Agreement 5. Bank Guarantee 6. Bank Account Details 7. Declaration Form 8. Any other documents as required"
+ },
+ {
+  "slug": "smbdlp",
+  "name": "Sub-mission on Breed Development of Livestock and Poultry",
+  "scheme_level": "Central",
+  "category": "Business & Entrepreneurship, Agriculture,Rural & Environment",
+  "state": null,
+  "field": "eligibility",
+  "excerpt": "The following are eligible to apply - Individuals Self Help Groups (SHGs) Farmer Producer Organizations (FPOs) Farmer Cooperatives (FCOs) Joint Liability Groups (JLGs) Section 8 Companies"
+ },
+ {
+  "slug": "agmsmezed",
+  "name": "Aatmanirbhar Gujarat Scheme for assistance to MSMEs: Financial Support to MSMEs in ZED Certification",
+  "scheme_level": "State",
+  "category": "Business & Entrepreneurship",
+  "state": "Gujarat",
+  "field": "benefits",
+  "excerpt": "Maximum subsidy capped at ₹50,000 during the scheme's operative period."
+ },
+ {
+  "slug": "tpgftcw",
+  "name": "Tool Purchase Grant for the Construction Workers",
+  "scheme_level": "State",
+  "category": "Business & Entrepreneurship",
+  "state": "West Bengal",
+  "field": "benefits",
+  "excerpt": "Quantum of Assistance: One time reimbursement of ₹2,000/-."
+ },
+ {
+  "slug": "aewc-mesifai-vi",
+  "name": "\"Assistance for Energy and Water Conservation\" under \"Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries - Various Incentives\"",
+  "scheme_level": "State",
+  "category": "Business & Entrepreneurship",
+  "state": "Puducherry",
+  "field": "eligibility",
+  "excerpt": "The unit should provide at least 60% of employment to the people of the Union territory of Puducherry of the total employment strength of the industrial units."
+ },
+ {
+  "slug": "pss-goa",
+  "name": "Power Subsidy Scheme",
+  "scheme_level": "State",
+  "category": "Business & Entrepreneurship, Utility & Sanitation",
+  "state": "Goa",
+  "field": "application",
+  "excerpt": "Step 1: Visit the Official Web Portal of Goa Online."
+ },
+ {
+  "slug": "uyegp",
+  "name": "Unemployed Youth Employment Generation Programme",
+  "scheme_level": "State",
+  "category": "Business & Entrepreneurship",
+  "state": "Tamil Nadu",
+  "field": "eligibility",
+  "excerpt": "The applicant should have passed the 8th standard."
+ },
+ {
+  "slug": "hss",
+  "name": "Hathkargha Samvardhan Sahayata",
+  "scheme_level": "State",
+  "category": "Business & Entrepreneurship",
+  "state": null,
+  "field": "benefits",
+  "excerpt": "NOTE 2: Weavers’ Service Centre (WSC) shall act as the lead agency in the purchase of technological up-gradation (looms/accessories) by the weavers from Empaneled Suppliers."
+ },
+ {
+  "slug": "plgsfsbu",
+  "name": "Performance Linked Grant Scheme for Smaller Business Units",
+  "scheme_level": "State",
+  "category": "Business & Entrepreneurship",
+  "state": "Goa",
+  "field": "eligibility",
+  "excerpt": "The applicant should have had a record growth of 15% y-o-y turnover for a period of any three consecutive years during the operation of the policy."
+ },
+ {
+  "slug": "sdrfs",
+  "name": "Banglashree for Micro, Small and Medium Enterprises: Subsidy on Stamp Duty and Registration Fee (SDRFS)",
+  "scheme_level": "State",
+  "category": "Business & Entrepreneurship",
+  "state": "West Bengal",
+  "field": "eligibility",
+  "excerpt": "The Date of Commencement of Commercial Production (DOCCP) should be between 1st April 2020 to 31st March 2025."
+ },
+ {
+  "slug": "sacipsctmrgiia",
+  "name": "Subsidy for Asset Creation for Intellectual Property: Subsidy on the Cost of Trade Mark Registration or Geographical Indications (GI) in India or Abroad",
+  "scheme_level": "State",
+  "category": "Business & Entrepreneurship",
+  "state": "Tamil Nadu",
+  "field": "benefits",
+  "excerpt": "50% subsidy on the cost of applying for Trade Mark Registration including the cost of the first-time maintenance fee of the granted application, subject to a maximum of ₹ 25, 000/- per Trade Mark or Geographical Indications registered."
+ },
+ {
+  "slug": "bauuyata",
+  "name": "Dr.Babasaheb Ambedkar Udyog Uday Yojana: Assistance for Technology Acquisition",
+  "scheme_level": "State",
+  "category": "Business & Entrepreneurship",
+  "state": "Gujarat",
+  "field": "eligibility",
+  "excerpt": "Note: SC/ST Enterprise: SC/ST Enterprise means the enterprise in which contribution of SC/ST entrepreneur is 51% or more."
+ },
+ {
+  "slug": "rt",
+  "name": "Rise Together",
+  "scheme_level": "State",
+  "category": "Business & Entrepreneurship",
+  "state": null,
+  "field": "eligibility",
+  "excerpt": "Only the Youth Groups with minimum 3 youth members shall be eligible for Financial Assistance under the scheme;"
+ },
+ {
+  "slug": "ns-icarif",
+  "name": "Netaji Subhas - ICAR International Fellowship",
+  "scheme_level": "Central",
+  "category": "Education & Learning",
+  "state": null,
+  "field": "application",
+  "excerpt": "Step 2: After login at https://education2.icar.gov.in/FellowShip/Loginfellowship.aspx and fill the following details User Details, Passport Details, Academic Qualification, Fellowships Selection, Work/Teaching Experience, Achievements, Details of Publications, Details of the Degree Programme, Referee Details, Proficiency in Language, Relatives Details, Remarks."
+ },
+ {
+  "slug": "sisdrdolept",
+  "name": "Scheme of Internship of Students to DRDO Labs/Estts for Project Training",
+  "scheme_level": "Central",
+  "category": "Education & Learning",
+  "state": null,
+  "field": "documents",
+  "excerpt": "Identity Proof – (Aadhaar Card, College ID, etc.) Passport-size Photograph Academic Certificates – Copies of mark sheets or transcripts from the latest completed semester Statement of Purpose (SOP) – Briefly explaining areas of interest Declaration Form – Stating compliance with DRDO rules and liability disclaimer Any other documents as required"
+ },
+ {
+  "slug": "nat",
+  "name": "National Awards to Teachers",
+  "scheme_level": "Central",
+  "category": "Education & Learning",
+  "state": null,
+  "field": "eligibility",
+  "excerpt": "Normally, retired teachers are not eligible for the award, but those teachers who have served a part of the calendar year (at least for four months, i.e. up to 30th April in the year to which National Awards relate) may be considered if they fulfil all other conditions."
+ },
+ {
+  "slug": "pgmssurhula",
+  "name": "Post Graduate Merit Scholarship Scheme For University Rank Holders At Under-Graduate Level Applicable",
+  "scheme_level": "Central",
+  "category": "Education & Learning",
+  "state": null,
+  "field": "benefits",
+  "excerpt": "The rank holders would be considered only from those universities (including affiliated colleges) wherein at least 1000 students have appeared in the examination in the General courses and 100 in Honours courses at the undergraduate level in the aforesaid programs."
+ },
+ {
+  "slug": "e-yuvasbirace-yuvafugs",
+  "name": "E-YUVA Scheme: BIRAC’s E-YUVA Fellows (for under graduate students)",
+  "scheme_level": "Central",
+  "category": "Education & Learning",
+  "state": null,
+  "field": "application",
+  "excerpt": "Step 02: Online application submission needs to be done through the BIRAC website."
+ },
+ {
+  "slug": "wos-a",
+  "name": "Women Scientist Scheme-A",
+  "scheme_level": "Central",
+  "category": "Education & Learning, Skills & Employment, Social welfare & Empowerment, Science, IT & Communications, Women and Child",
+  "state": null,
+  "field": "eligibility",
+  "excerpt": "The age of the applicant must be between 27 and 57 years (5 year relaxation for SC/ST/OBC and physically challenged candidates) The applicant must hold either of the following Minimum essential qualification - Minimum Post Graduate degree, equivalent to M.Sc. in Basic or Applied Sciences or B.Tech. or MBBS or other equivalent professional qualifications."
+ },
+ {
+  "slug": "post-st",
+  "name": "Post Matric Scholarship Scheme For The Students Belonging To Scheduled Tribe For Studies In India",
+  "scheme_level": "Central",
+  "category": "Education & Learning",
+  "state": null,
+  "field": "eligibility",
+  "excerpt": "NOTE 3: Income certificate is required to be taken once only i.e. at the time of admission to courses that are continuing for more than one year."
+ },
+ {
+  "slug": "stfhrdphr",
+  "name": "Short Term Fellowship under the Human Resource Development Programme for Health Research",
+  "scheme_level": "Central",
+  "category": "Education & Learning",
+  "state": null,
+  "field": "application",
+  "excerpt": "Step 01: The full-length research proposals may be submitted online only and no proposal in physical/hard copy is to be submitted w.r.t. the advertisements published in leading newspapers and uploaded on the websites of DHR & ICMR."
+ },
+ {
+  "slug": "mip",
+  "name": "MANAGE Internship Programme",
+  "scheme_level": "Central",
+  "category": "Education & Learning",
+  "state": null,
+  "field": "documents",
+  "excerpt": "Curriculum Vitae (CV) Motivation Letter Recommendation Letter (from the Head of the Department/ Chairman of the Advisory Committee)"
+ },
+ {
+  "slug": "jms-11and12",
+  "name": "Junior Merit (Class - 11 To 12)",
+  "scheme_level": "State",
+  "category": "Education & Learning",
+  "state": "Odisha",
+  "field": "benefits",
+  "excerpt": "The number of scholarships will be awarded to 10,000 students (Boys & Girls in 50:50 ratio)."
+ },
+ {
+  "slug": "k-biref",
+  "name": "Kerala Biotechnology Re-Entry Fellowship",
+  "scheme_level": "State",
+  "category": "Education & Learning",
+  "state": "Kerala",
+  "field": "benefits",
+  "excerpt": "Fellow entitled for a monthly remuneration of ₹1,00,000/- and ₹18,500/- as HRA per month."
+ },
+ {
+  "slug": "ceaf",
+  "name": "Children Education Assistance Fund",
+  "scheme_level": "State",
+  "category": "Education & Learning",
+  "state": "Nagaland",
+  "field": "documents",
+  "excerpt": "List of required documents Residence proof of the child in Nagaland Family income certificate Aadhar card or any other government-approved identity proof of the child and the parent/guardian School admission or enrollment certificate of the child in a government school Bank account details of the parent/guardian where the financial assistance will be credited."
+ },
+ {
+  "slug": "dbsalhsifc",
+  "name": "Dr. Baba Saheb Ambedkar Loan for Higher Study in Foreign Countries",
+  "scheme_level": "State",
+  "category": "Education & Learning",
+  "state": "Gujarat",
+  "field": "eligibility",
+  "excerpt": "Note 06: If the student settles abroad, change of place of work-residence, contact number, e-mail id, notification of movement to India \"till the loan is repaid\" will be mandatory."
+ },
+ {
+  "slug": "cbs-pbaocwwb",
+  "name": "Cash Benefit Scheme Scheme (PBAOCWWB)",
+  "scheme_level": "State",
+  "category": "Education & Learning",
+  "state": "Puducherry",
+  "field": "benefits",
+  "excerpt": "Annual Educational Assistance a) Degree Courses: ₹2,000. b) Post Graduate Courses: ₹4,000. c) Diploma courses: ₹2,000. d) Postgraduate Diploma: ₹3,000."
+ },
+ {
+  "slug": "ciwesm-as",
+  "name": "Cash Incentive to Wards of ESM (Academic Scholarship)",
+  "scheme_level": "State",
+  "category": "Education & Learning, Skills & Employment",
+  "state": "Puducherry",
+  "field": "documents",
+  "excerpt": "Identity Card of the ESM / Widow of the ESM. Discharge Certificate of the ESM. Mark Statement/ Certificate (Attested). Birth Certificate of the Ward (if not already registered with the DSW). Study Certificate of the Ward (if not already registered with the DSW). First Page of Bank Passbook. Declaration by the Ex-Servicemen/Widow."
+ },
+ {
+  "slug": "fashceescbcs",
+  "name": "Financial Assistance Scheme For Higher Competitive/ Entrance Examination To Scheduled Castes/ Backward Classes Students",
+  "scheme_level": "State",
+  "category": "Education & Learning, Social welfare & Empowerment",
+  "state": "Haryana",
+  "field": "eligibility",
+  "excerpt": "Note 03: This scheme will be applicable and available for only those courses which are not covered by any other Scheme for Scheduled Castes and Backward Classes run by other departments."
+ },
+ {
+  "slug": "mcmsec",
+  "name": "Merit cum Means Scholarship: Engineering University",
+  "scheme_level": "State",
+  "category": "Education & Learning",
+  "state": "Chhattisgarh",
+  "field": "eligibility",
+  "excerpt": "The total annual income of the student's father/guardian should not exceed ₹ 2,50,000/-."
+ },
+ {
+  "slug": "fafeftcw",
+  "name": "Financial Assistance for Education for the Construction Workers",
+  "scheme_level": "State",
+  "category": "Education & Learning, Social welfare & Empowerment",
+  "state": null,
+  "field": "application",
+  "excerpt": "Check Beneficiary Details: Visit the official website and enter the “BOCW Registration No.” of the concerned beneficiary in the Search box."
+ },
+ {
+  "slug": "kccy",
+  "name": "Kalpana Chawla Chatravriti Yojana",
+  "scheme_level": "State",
+  "category": "Education & Learning, Women and Child",
+  "state": "Himachal Pradesh",
+  "field": "documents",
+  "excerpt": "Aadhar Card Passing Certificate of Class 12th Admission Certificate of the Post 10+2 Course Bank Passbook Selection Letter Granted by the Educational Authority Passport Size Photo Domicile Certificate of Himachal Pradesh Income Certificate Fee Payment Receipt Bonafide Certificate"
+ },
+ {
+  "slug": "setcmaai",
+  "name": "Scheme for Enhancement of Technical Competence and Manpower: Scheme of Financial Assistance for Setting Up Anchor Institute",
+  "scheme_level": "State",
+  "category": "Education & Learning, Skills & Employment",
+  "state": "Gujarat",
+  "field": "benefits",
+  "excerpt": "Trainee Transportation Reimbursement: Trainees who complete skill upgradation training under any scheme will be eligible for reimbursement of Gujarat State Road Transport Corporation (GSRTC) bus passes for travel between their residence and training center as per the following rates: For BPL candidates, Physically Handicapped, SC, ST, SEBC, and Women: 100% For Other candidates: 75%"
+ },
+ {
+  "slug": "drpdhma",
+  "name": "Dr. Panjabrao Deshmukh Hostel Maintenance Allowance",
+  "scheme_level": "State",
+  "category": "Education & Learning",
+  "state": "Maharashtra",
+  "field": "documents",
+  "excerpt": "1. Domicile Certificate 2. New applicants need to submit HSC and SSC mark sheet 3. Income certificate of Parents. 4. Previous year's mark sheet. 5. Affidavit 6. Registered Labourers/aplabhudarak shetkari need to submit a proof letter approved from the tahsildar /Income certificate of Parents. 7. Aadhaar card 8. Student's PAN card (optional) 9. Father's PAN card 10.Mother's PAN card (optional)"
+ },
+ {
+  "slug": "eiec",
+  "name": "Establishment of Integrated Educational Complexes",
+  "scheme_level": "State",
+  "category": "Education & Learning",
+  "state": "Goa",
+  "field": "eligibility",
+  "excerpt": "Existing Government educational institutions that have no or insufficient premises and are located within 10 km. of the proposed complex site may also apply."
+ },
+ {
+  "slug": "oecp-mea",
+  "name": "OEC Pre-matric Educational Assistance",
+  "scheme_level": "State",
+  "category": "Education & Learning",
+  "state": "Kerala",
+  "field": "eligibility",
+  "excerpt": "The annual family income should be ₹6,00,000/- for the students who belong to Other Equivalent Communities."
+ },
+ {
+  "slug": "caabocwwb",
+  "name": "Cash Award (A.B.O.C.W.W.B)",
+  "scheme_level": "State",
+  "category": "Education & Learning",
+  "state": "Assam",
+  "field": "eligibility",
+  "excerpt": "To avail of the benefits of the scheme, students must have obtained a minimum of 55% or above in the HSLC, AHM, and H.S. examinations."
+ },
+ {
+  "slug": "asdaps",
+  "name": "Award of Scholarship to Differently Abled Person Students",
+  "scheme_level": "State",
+  "category": "Education & Learning, Social welfare & Empowerment",
+  "state": "Puducherry",
+  "field": "benefits",
+  "excerpt": "Postgraduate/Professional Course: ₹ 6,800/- per year."
+ },
+ {
+  "slug": "atbs",
+  "name": "Awards to Bright Students",
+  "scheme_level": "State",
+  "category": "Education & Learning",
+  "state": "Tamil Nadu",
+  "field": "eligibility",
+  "excerpt": "The beneficiary should be continuing their studies after 10th standard."
+ },
+ {
+  "slug": "cmossm",
+  "name": "Chief Minister's Overseas Scholarship Scheme for Minorities",
+  "scheme_level": "State",
+  "category": "Education & Learning",
+  "state": "Telangana",
+  "field": "benefits",
+  "excerpt": "Fees: Fees shall be payable in two installments as follows: • Instalment-I: An amount of ₹10.00 Lakhs or the actual fee (whichever is less) shall be payable to the Students upon production of the landing permit/1-94 Card (Immigration Card); • Instalment-II: An amount of ₹10.00 Lakhs of the actual fee (whichever is less) shall be payable to the Students upon production of the 1st Semester Results."
+ },
+ {
+  "slug": "bse-pg",
+  "name": "Bharati Scheme for Education - Post-Graduation",
+  "scheme_level": "State",
+  "category": "Education & Learning, Women and Child",
+  "state": "Andhra Pradesh",
+  "field": "eligibility",
+  "excerpt": "The annual family income of parents/guardians should not exceed ₹3,00,000/-."
+ },
+ {
+  "slug": "sfcssots",
+  "name": "Scholarship for Chhattisgarh Students Studying Outside the State",
+  "scheme_level": "State",
+  "category": "Education & Learning",
+  "state": "Chhattisgarh",
+  "field": "documents",
+  "excerpt": "Residential Certificate of Chhattisgarh. Mark sheet of the Qualifying Examination. Proof of Admission in a Recognised Engineering College Outside Chhattisgarh."
+ },
+ {
+  "slug": "jpshc",
+  "name": "Jiyo Parsi Scheme – Health of the Community",
+  "scheme_level": "Central",
+  "category": "Health & Wellness",
+  "state": null,
+  "field": "documents",
+  "excerpt": "Identity proof Community certificate Bank Details of Joint Account of the Couple/Cancelled Cheque of Nationalized Bank Income Certificates(from appropriate authority) Details of dependent elderly family members or children with their age proof Courses details in Avesta Pahlvi language, ancient language of Parsi Community, if applicable Any other documents as required"
+ },
+ {
+  "slug": "suman",
+  "name": "Surakshit Matritva Aashwasan Yojana",
+  "scheme_level": "Central",
+  "category": "Health & Wellness, Women and Child",
+  "state": null,
+  "field": "eligibility",
+  "excerpt": "Following are the general requirements - Pregnant women from all categories, including APL and BPL, are eligible to get the benefits Newborns aged 0 to 6 months old will be able to avail the benefits of this scheme After delivery, lactating mothers up to 6 months from delivery are also eligible for this scheme."
+ },
+ {
+  "slug": "skgbcsy",
+  "name": "Safai Karmakar Gambhir Bimari Chikitsa Sahayata Yojana",
+  "scheme_level": "State",
+  "category": "Health & Wellness",
+  "state": "Chhattisgarh",
+  "field": "benefits",
+  "excerpt": "Registered unorganized workers who are suffering from serious illness will be provided medical assistance of ₹ 50,000/- for their treatment."
+ },
+ {
+  "slug": "amas-haryana",
+  "name": "Dr. Ambedkar Medical Aid Scheme (Revised – 2009)",
+  "scheme_level": "State",
+  "category": "Health & Wellness, Social welfare & Empowerment",
+  "state": null,
+  "field": "benefits",
+  "excerpt": "Under this scheme medical treatment facilities provide to the patients suffering from serious ailments of Scheduled Caste and Scheduled Tribe persons whose annual family income is less than ₹ 1,00,000/- p.a."
+ },
+ {
+  "slug": "psg",
+  "name": "PURNA Scheme",
+  "scheme_level": "State",
+  "category": "Health & Wellness, Women and Child, Education & Learning",
+  "state": "Gujarat",
+  "field": "eligibility",
+  "excerpt": "The applicant must be aged between 15-18 years."
+ },
+ {
+  "slug": "mlsp",
+  "name": "Mobile Lab Scheme (P.B.O.C.W.W.B)",
+  "scheme_level": "State",
+  "category": "Health & Wellness",
+  "state": "Punjab",
+  "field": "eligibility",
+  "excerpt": "The applicant should have engaged in building and construction work for at least 90 days in a given year."
+ },
+ {
+  "slug": "chobcbg",
+  "name": "Construction of Hostels for OBC Boys and Girls",
+  "scheme_level": "Central",
+  "category": "Housing & Shelter",
+  "state": null,
+  "field": "eligibility",
+  "excerpt": "Location and Capacity of Hostels to be constructed under the Scheme: 1."
+ },
+ {
+  "slug": "scbshas",
+  "name": "Scheduled Caste Boys/Girls Housing Assistance Scheme",
+  "scheme_level": "State",
+  "category": "Housing & Shelter",
+  "state": "Madhya Pradesh",
+  "field": "benefits",
+  "excerpt": "₹1,000/- per month, if the student is residing in a Tehsil/Development Block Headquarters."
+ },
+ {
+  "slug": "v-vhcs",
+  "name": "Ved-Vyas Housing Construction Scheme",
+  "scheme_level": "State",
+  "category": "Housing & Shelter, Agriculture,Rural & Environment",
+  "state": "Jharkhand",
+  "field": "benefits",
+  "excerpt": "Financial assistance of ₹1,20,000/- for housing construction."
+ },
+ {
+  "slug": "nari-adalat",
+  "name": "Nari Adalat",
+  "scheme_level": "Central",
+  "category": "Public Safety,Law & Justice, Social welfare & Empowerment",
+  "state": null,
+  "field": "benefits",
+  "excerpt": "1) Accessible and affordable justice 2) Conflict resolution 3) Reconciliation 4) Awareness Generation"
+ },
+ {
+  "slug": "msdst",
+  "name": "Mobility Scheme",
+  "scheme_level": "Central",
+  "category": "Science, IT & Communications",
+  "state": null,
+  "field": "eligibility",
+  "excerpt": "The new place should be located beyond 500 Km from present city."
+ },
+ {
+  "slug": "spytis-i",
+  "name": "Scheme for Promoting Young Talents in Science-I",
+  "scheme_level": "State",
+  "category": "Science, IT & Communications",
+  "state": "Kerala",
+  "field": "application",
+  "excerpt": "Contact Details: The Head, Science Education Division (SED), Kerala State Council for Science, Technology and Environment, Sasthra Bhavan, Pattom, Thiruvananthapuram – 4, Tel No. + 91-471-2548218/223 E-mail: sed.kscste@kerala.gov.in, Website: www.kscste.kerala.gov.in"
+ },
+ {
+  "slug": "sip",
+  "name": "SAHAKAR MITRA: NCDC’s Scheme on Internship Programme",
+  "scheme_level": "Central",
+  "category": "Skills & Employment",
+  "state": null,
+  "field": "documents",
+  "excerpt": "1. Passport-size photograph 2. Recommendation letter 3. Identity proof 4. All relevant educational documents 5. An e-mail id 6. A mobile number Note: A recommendation letter can be done by the Head of the Department of the UGC/AICTE/ICAR recognized Universities/Institutions as applicable, to the Regional Director NCDC or Chief Director LINAC or Head of HR Division in HO of NCDC."
+ },
+ {
+  "slug": "ay",
+  "name": "Agnipath Yojana",
+  "scheme_level": "Central",
+  "category": "Skills & Employment",
+  "state": null,
+  "field": "benefits",
+  "excerpt": "Note 02: There shall be no entitlement to gratuity and pensionary benefits."
+ },
+ {
+  "slug": "sdt-90drsdtp",
+  "name": "Skill Development Training - 90 Days Residential Skill Development Training Programme",
+  "scheme_level": "State",
+  "category": "Skills & Employment, Social welfare & Empowerment",
+  "state": "Telangana",
+  "field": "eligibility",
+  "excerpt": "The applicant's age should be between 18-30 years old."
+ },
+ {
+  "slug": "doh",
+  "name": "DEVELOPMENT OF HANDICRAFTS",
+  "scheme_level": "State",
+  "category": "Skills & Employment",
+  "state": "Puducherry",
+  "field": "benefits",
+  "excerpt": "(ii) Compensation for wastage of raw materials Rs.150 /- per month/ per trainee (maximum Rs.1,500/- per month)."
+ },
+ {
+  "slug": "msdsrp",
+  "name": "Mukhyamantri Sports Development Scheme - Retired Person",
+  "scheme_level": "State",
+  "category": "Skills & Employment",
+  "state": "Tripura",
+  "field": "benefits",
+  "excerpt": "Fixed remuneration of ₹30,000/- per month."
+ },
+ {
+  "slug": "ipt",
+  "name": "\"In-Plant Training\" Component of the \"Development of Industries\" Scheme",
+  "scheme_level": "State",
+  "category": "Skills & Employment",
+  "state": "Puducherry",
+  "field": "eligibility",
+  "excerpt": "The applicant should be between 18 and 35 years of age."
+ },
+ {
+  "slug": "naospasa-bri",
+  "name": "National Awards For Outstanding Services In The Field Of Prevention Of Alcoholism And Substance (Drug) Abuse: Best Research Or Innovation",
+  "scheme_level": "Central",
+  "category": "Social welfare & Empowerment",
+  "state": null,
+  "field": "application",
+  "excerpt": "The agencies or persons, authorized to nominate and recommend eligible institutions or individuals, should submit the application of the nominee in the Prescribed Proforma online on the National Awards Portal , Ministry of Home Affairs."
+ },
+ {
+  "slug": "naepwdnaieepwddksmksspriongo",
+  "name": "National Awards For Empowerment Of Persons With Disabilities: National Awards For Institutions Engaged In Empowering Persons With Disabilities: Divyangjanon Ke Sashaktikaran Men Karyrat Sarveshrestha Sansthan (Private Organization, NGO)",
+  "scheme_level": "Central",
+  "category": "Social welfare & Empowerment",
+  "state": null,
+  "field": "benefits",
+  "excerpt": "The ceremony of the National Awards is held at Vigyan Bhawan, New Delhi on 3rd December, every year which has been declared as the “International Day of Persons with Disabilities”."
+ },
+ {
+  "slug": "naospasa-beidowagpasa",
+  "name": "National Awards For Outstanding Services In The Field Of Prevention Of Alcoholism And Substance (Drug) Abuse: Best Educational Institution Doing Outstanding Work In Awareness Generation And Prevention Of Alcoholism And Substance (Drug) Abuse",
+  "scheme_level": "Central",
+  "category": "Social welfare & Empowerment",
+  "state": null,
+  "field": "benefits",
+  "excerpt": "Presentation of Award (Ceremony Details) The awards shall be conferred on the awardees in a function to be held in New Delhi on the 26th June of the year, which has been declared as the “International Day against Drug Abuse and Illicit Trafficking”."
+ },
+ {
+  "slug": "nfbs",
+  "name": "National Family Benefit Scheme",
+  "scheme_level": "Central",
+  "category": "Social welfare & Empowerment",
+  "state": null,
+  "field": "benefits",
+  "excerpt": "₹ 20000/ - will be given as a lump sum assistance to such surviving member of the household of the deceased poor, who after local inquiry, is found to be the head of the household."
+ },
+ {
+  "slug": "kps",
+  "name": "Kabir Puraskar Scheme",
+  "scheme_level": "Central",
+  "category": "Social welfare & Empowerment",
+  "state": null,
+  "field": "documents",
+  "excerpt": "1. Identity proof of candidate 2. Three copies of recent passport Size Photographs 3. A detailed note on the act of physical/moral courage displayed by the nominee during communal/caste/ethnic violence 4. Details of any other work done in the past for promotion of communal harmony/national integration 5. Recommendations letter of the State Govt./UT Administration 6. Any other document, if required"
+ },
+ {
+  "slug": "nassvsbulbpsfsc",
+  "name": "National Award For Senior Citizens (vayoshreshtha Samman): Best Urban Local Body In Providing Services And Facilities To Senior Citizens",
+  "scheme_level": "Central",
+  "category": "Social welfare & Empowerment",
+  "state": null,
+  "field": "application",
+  "excerpt": "Registration Step 1: The agencies or persons, authorized to nominate and recommend eligible institutions or individuals, should visit the National Awards Portal ."
+ },
+ {
+  "slug": "nassvsla",
+  "name": "National Award For Senior Citizens (Vayoshreshtha Samman): Lifetime Achievement",
+  "scheme_level": "Central",
+  "category": "Social welfare & Empowerment",
+  "state": null,
+  "field": "eligibility",
+  "excerpt": "NOTE 3: The Self-nominations for the Awards shall not be considered."
+ },
+ {
+  "slug": "nassvssa",
+  "name": "National Award For Senior Citizens (vayoshreshtha Samman): Sports And Adventure",
+  "scheme_level": "Central",
+  "category": "Social welfare & Empowerment",
+  "state": null,
+  "field": "benefits",
+  "excerpt": "No. of Awardees The total number of Awardees is 15 (Fifteen)."
+ },
+ {
+  "slug": "deisrs",
+  "name": "Disha - Early Intervention and School Readiness Scheme",
+  "scheme_level": "Central",
+  "category": "Social welfare & Empowerment",
+  "state": null,
+  "field": "benefits",
+  "excerpt": "Day Care: Day-care facilities to PwD for at least 4 hours in a day."
+ },
+ {
+  "slug": "eps",
+  "name": "Employees' Pension Scheme",
+  "scheme_level": "Central",
+  "category": "Social welfare & Empowerment, Skills & Employment",
+  "state": null,
+  "field": "benefits",
+  "excerpt": "Calculated as (Pensionable Salary × Pensionable Service) / 70."
+ },
+ {
+  "slug": "dpcw",
+  "name": "Disability Pension for the Construction Workers",
+  "scheme_level": "State",
+  "category": "Social welfare & Empowerment",
+  "state": "Delhi",
+  "field": "benefits",
+  "excerpt": "₹3,000/- per month as disability pension to permanently disabled due to paralysis, leprosy, T.B., accident etc. available from the date of registration."
+ },
+ {
+  "slug": "majkbocwwb",
+  "name": "Marriage Assistance (JKBOCWWB)",
+  "scheme_level": "State",
+  "category": "Social welfare & Empowerment",
+  "state": null,
+  "field": "eligibility",
+  "excerpt": "The applicant should have engaged in any building or other construction work for at least 90 days during the preceding 12 months."
+ },
+ {
+  "slug": "faisbscbc",
+  "name": "Financial Assistance To Institutions/Societies Belonging To Scheduled Castes/Backward Classes",
+  "scheme_level": "State",
+  "category": "Social welfare & Empowerment, Transport & Infrastructure",
+  "state": "Haryana",
+  "field": "eligibility",
+  "excerpt": "The society/ institution should have at least 100 sq yards of its own land or allotted /donated to it by the Govt./ Panchayat/ Local Body/ any individual etc."
+ },
+ {
+  "slug": "bpgy",
+  "name": "Biju Pucca Ghar Yojana",
+  "scheme_level": "State",
+  "category": "Social welfare & Empowerment",
+  "state": "Odisha",
+  "field": "eligibility",
+  "excerpt": "The Scheme is applicable to 36 Blocks of 9 mining-affected districts as mentioned below."
+ },
+ {
+  "slug": "sapsp",
+  "name": "Union Territory of Lakshadweep Pension Scheme for Specially Abled Persons",
+  "scheme_level": "State",
+  "category": "Social welfare & Empowerment",
+  "state": "Lakshadweep",
+  "field": "benefits",
+  "excerpt": "Under this scheme, eligible individuals receive a monthly pension of ₹1,500/- (₹18,000/- per annum)."
+ },
+ {
+  "slug": "adbtvs",
+  "name": "Ambedkar DBT Voucher Scheme",
+  "scheme_level": "State",
+  "category": "Social welfare & Empowerment, Education & Learning",
+  "state": "Rajasthan",
+  "field": "benefits",
+  "excerpt": "Duration of Benefit: Maximum 5 years per student."
+ },
+ {
+  "slug": "wbtwsam",
+  "name": "West Bengal Transport Workers’ Social Security Scheme: Assistance for Marriage",
+  "scheme_level": "State",
+  "category": "Social welfare & Empowerment",
+  "state": "West Bengal",
+  "field": "benefits",
+  "excerpt": "For dependent sons/ daughters (up to a maximum of two): ₹10,000/-"
+ },
+ {
+  "slug": "ueeupwd",
+  "name": "Unemployment Allowance To The Educated Unemployed Persons With Disabilities",
+  "scheme_level": "State",
+  "category": "Social welfare & Empowerment",
+  "state": "Manipur",
+  "field": "benefits",
+  "excerpt": "An unemployment allowance of ₹400/- to ₹1,000/- per month will be provided by the government."
+ },
+ {
+  "slug": "gfampmblpl",
+  "name": "Grant of Financial Assistance for Performance of Marriage of Poor Brides Living Below Poverty Line",
+  "scheme_level": "State",
+  "category": "Social welfare & Empowerment, Women and Child",
+  "state": "Puducherry",
+  "field": "benefits",
+  "excerpt": "Financial assistance of ₹25,000 for marriage expenses."
+ },
+ {
+  "slug": "ssyup",
+  "name": "Shauchalaya Sahayata Yojana",
+  "scheme_level": "State",
+  "category": "Social welfare & Empowerment",
+  "state": "Uttar Pradesh",
+  "field": "benefits",
+  "excerpt": "The money is paid in two installments: ₹6,000/- before the toilet is built and ₹6,000/- after the toilet is built and is in use"
+ },
+ {
+  "slug": "ysrkn",
+  "name": "YSR Kapu Nestham",
+  "scheme_level": "State",
+  "category": "Social welfare & Empowerment, Women and Child",
+  "state": "Andhra Pradesh",
+  "field": "benefits",
+  "excerpt": "Financial Assistance of a total amount of ₹ 75,000/- over the period of 5 years i.e., ₹ 15,000/- per annum."
+ },
+ {
+  "slug": "oapspbocwwb",
+  "name": "Old Age Pension Scheme (P.B.O.C.W.W.B)",
+  "scheme_level": "State",
+  "category": "Social welfare & Empowerment",
+  "state": "Punjab",
+  "field": "eligibility",
+  "excerpt": "The applicant should have a monthly income of ₹15,000/- or below."
+ },
+ {
+  "slug": "skksbpa",
+  "name": "Swahid Kushal Konwar Sarbajanin Briddha Pension Achoni",
+  "scheme_level": "State",
+  "category": "Social welfare & Empowerment",
+  "state": "Assam",
+  "field": "benefits",
+  "excerpt": "The beneficiary will be granted a sum of ₹ 250/- per month through DBT."
+ },
+ {
+  "slug": "cpsbocwwb",
+  "name": "Cash Prizes Scheme (BBOCWWB)",
+  "scheme_level": "State",
+  "category": "Social welfare & Empowerment",
+  "state": "Bihar",
+  "field": "eligibility",
+  "excerpt": "For the Child The child should have passed the 10th or 12th examination conducted by a board in Bihar."
+ },
+ {
+  "slug": "uascs",
+  "name": "Uniform Assistance To SC Students",
+  "scheme_level": "State",
+  "category": "Social welfare & Empowerment",
+  "state": "Gujarat",
+  "field": "eligibility",
+  "excerpt": "Students should be studying in classes 1 to 8."
+ },
+ {
+  "slug": "smcrcsc",
+  "name": "Sanctioning of M.C.R. Chappals to Senior Citizens",
+  "scheme_level": "State",
+  "category": "Social welfare & Empowerment",
+  "state": "Andhra Pradesh",
+  "field": "eligibility",
+  "excerpt": "The applicant's age should be 60 years and above."
+ },
+ {
+  "slug": "faotndodap",
+  "name": "Financial Assistance on the Natural Death of Differently Abled Person",
+  "scheme_level": "State",
+  "category": "Social welfare & Empowerment",
+  "state": "Tamil Nadu",
+  "field": "benefits",
+  "excerpt": "Financial Assistance of ₹15,000/- to the legal heir."
+ },
+ {
+  "slug": "gtachcw",
+  "name": "Grant of Token Amount for Construction of House for the Construction Workers",
+  "scheme_level": "State",
+  "category": "Social welfare & Empowerment",
+  "state": null,
+  "field": "benefits",
+  "excerpt": "For Beneficiary Led Construction (BLC): ₹50,000/-."
+ },
+ {
+  "slug": "mkvymp",
+  "name": "Mukhyamantri Kanya Vivaah / Nikaah Yojana",
+  "scheme_level": "State",
+  "category": "Social welfare & Empowerment, Women and Child",
+  "state": "Madhya Pradesh",
+  "field": "eligibility",
+  "excerpt": "The bride has completed the prescribed age for marriage (At present, the minimum legal age for marriage for a girl is 18 years and the minimum legal age for a man is 21 years)."
+ },
+ {
+  "slug": "fam-gbocwwb",
+  "name": "Financial Assistance for Marriage (GBOCWWB)",
+  "scheme_level": "State",
+  "category": "Social welfare & Empowerment",
+  "state": "Goa",
+  "field": "documents",
+  "excerpt": "Worker Registration Card/Number. Receipt of Payment of First & Last Subscription with the Board. Proof of Age of the Bride. Proof of Age of the Groom. Marriage Certificate, containing the date and the address of the authority who has issued the certificate."
+ },
+ {
+  "slug": "mnmsusy",
+  "name": "Mukhyamantri Nirmaan Majadur suraksha upakaran sahaayata yojana",
+  "scheme_level": "State",
+  "category": "Social welfare & Empowerment",
+  "state": "Chhattisgarh",
+  "field": "documents",
+  "excerpt": "Labor registration card. Aadhaar Card. Invoice Copy Bank account Details"
+ },
+ {
+  "slug": "sfava",
+  "name": "Scheme For Financial Assistance For Veteran Artists",
+  "scheme_level": "Central",
+  "category": "Sports & Culture, Social welfare & Empowerment",
+  "state": null,
+  "field": "eligibility",
+  "excerpt": "The applicant artiste is getting a pension of at least ₹500/- per month from the concerned State Government/UT Administration or is recommended by the Zonal Cultural Centres, Ministry of Culture, for the artists of their Members State where State Pension is not there."
+ },
+ {
+  "slug": "hposec",
+  "name": "Haryana Provision of Sports Equipment Scheme",
+  "scheme_level": "State",
+  "category": "Sports & Culture, Business & Entrepreneurship",
+  "state": "Haryana",
+  "field": "benefits",
+  "excerpt": "Name of the Sport Eligible Equipment Volleyball Up to 06 Balls and Net (if poles are installed) Football Up to 06 Balls and Net (if poles are installed) Basketball Up to 06 Balls (if poles are installed) Handball Up to 06 Balls and Net (if poles are installed) Boxing Up to 06 Punching Bags and 12 pairs of gloves."
+ },
+ {
+  "slug": "cmat-ap",
+  "name": "Chief Ministergi Artistesinggi Tengbang (CMAT) – Artiste’s Pension",
+  "scheme_level": "State",
+  "category": "Sports & Culture, Social welfare & Empowerment",
+  "state": "Manipur",
+  "field": "application",
+  "excerpt": "Step 3: The duly filled-in application form should be submitted to the Directorate of Art & Culture, Government of Manipur office at Palace Compound, Imphal along with a cover letter addressed to the Director (Art & Culture)."
+ },
+ {
+  "slug": "swsvy",
+  "name": "Shahari Waqf Sampatti Vikas Yojana",
+  "scheme_level": "Central",
+  "category": "Transport & Infrastructure",
+  "state": null,
+  "field": "benefits",
+  "excerpt": "Maximum interest free loan payable will be ₹2.00 crore or 75% of the estimated cost of the project (excluding the value of the land), whichever is less."
+ },
+ {
+  "slug": "ngin",
+  "name": "New Generation Innovation Network",
+  "scheme_level": "State",
+  "category": "Transport & Infrastructure",
+  "state": "Tripura",
+  "field": "eligibility",
+  "excerpt": "Minimum Qualification: Technical/Management graduate with at least 5 years of working experience in the industry in sales/Marketing."
+ },
+ {
+  "slug": "mdas",
+  "name": "Marketing Development Assistance Scheme",
+  "scheme_level": "Central",
+  "category": "Travel & Tourism, Business & Entrepreneurship",
+  "state": null,
+  "field": "benefits",
+  "excerpt": "For Tourism Service Providers /Tourism Departments of State Governments / UT Administrations Financial support for online promotion of tourism destinations and products in overseas markets, including digital content creation, will cover 50% of the total cost, up to ₹1,00,000/- per financial year, subject to actuals."
+ },
+ {
+  "slug": "sjgdys2016",
+  "name": "Swaran Jayanti Guru Darshan Yatra Scheme 2016",
+  "scheme_level": "State",
+  "category": "Travel & Tourism, Social welfare & Empowerment",
+  "state": "Haryana",
+  "field": "benefits",
+  "excerpt": "The financial assistance shall be provided to a maximum of 50 (fifty) numbers of pilgrims."
+ },
+ {
+  "slug": "pmuy",
+  "name": "Pradhan Mantri Ujjwala Yojana",
+  "scheme_level": "Central",
+  "category": "Utility & Sanitation, Women and Child",
+  "state": null,
+  "field": "benefits",
+  "excerpt": "1600 for a connection 14.2kg cylinder or Rs."
+ },
+ {
+  "slug": "sjmmsvy",
+  "name": "Swarnim Jayanti Mukhya Mantri Shaheri Vikas Yojana (SJMMSVY)",
+  "scheme_level": "State",
+  "category": "Utility & Sanitation",
+  "state": "Gujarat",
+  "field": "benefits",
+  "excerpt": "State-Funded Support: 100% financial support from the Gujarat state government for project implementation."
+ },
+ {
+  "slug": "ipmwcd",
+  "name": "Internship Programme for Women Students / Scholars / Social Activists / Teachers",
+  "scheme_level": "Central",
+  "category": "Women and Child",
+  "state": null,
+  "field": "benefits",
+  "excerpt": "Each intern would be provided a lump sum stipend of ₹20,000/- per month and reimbursement of travel cost (by Deluxe/AC Bus/3 Tier AC Train) for joining of the programme in the Ministry and return back home at the end of the programme."
+ },
+ {
+  "slug": "gshtn",
+  "name": "Government Service Home - Tamil Nadu",
+  "scheme_level": "State",
+  "category": "Women and Child, Social welfare & Empowerment, Housing & Shelter",
+  "state": "Tamil Nadu",
+  "field": "application",
+  "excerpt": "Step 2: The applicant should visit the nearest Common Service Center (CSC) and complete the Biometric Verification Process."
+ },
+ {
+  "slug": "sbvcydpsc",
+  "name": "Samekit Baal Vikas Chhtra Yojana: Dress for Pre-school Children",
+  "scheme_level": "State",
+  "category": "Women and Child",
+  "state": "Bihar",
+  "field": "eligibility",
+  "excerpt": "The beneficiary should be between 3 and 6 years of age."
+ }
+]
