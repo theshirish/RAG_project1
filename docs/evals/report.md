@@ -5,19 +5,19 @@
 | Metric | Acceptable Threshold | Good Threshold | Value | Threshold Evaluation |
 |---|---|---|---|---|
 | Total Count | N/A | N/A | 30 | N/A |
-| Task Success Rate | 0.6 | 0.8 | 96.00% | Good |
-| Groundedness | 0.8 | 0.95 | 96.67% | Good |
-| Retrieval Hit Rate | 0.7 | 0.9 | 96.67% | Good |
-| Cost / Query | 0.01 | 0.005 | $0.00027 | Good |
-| Latency (p50) | N/A | N/A | 16.17s | N/A |
-| Latency (p95) | 3.0 | 1.5 | 23.09s | Poor |
+| Task Success Rate | 0.6 | 0.8 | 86.00% | Good |
+| Groundedness | 0.8 | 0.95 | 85.67% | Acceptable |
+| Retrieval Hit Rate | 0.7 | 0.9 | 92.00% | Good |
+| Cost / Query | 0.01 | 0.005 | $0.00028 | Good |
+| Latency (p50) | N/A | N/A | 15.75s | N/A |
+| Latency (p95) | 3.0 | 1.5 | 21.28s | Poor |
 
 ## Metrics by Path Level
 
 | Path Level | Count | Task Success Rate | Groundedness | Retrieval Hit Rate |
 |---|---|---|---|---|
-| happy_path | 19 | 100.00% | 100.00% | 100.00% |
-| hard_path | 7 | 97.14% | 100.00% | 100.00% |
+| happy_path | 19 | 88.42% | 87.89% | 92.63% |
+| hard_path | 7 | 85.71% | 85.71% | 100.00% |
 | edge_path | 4 | 75.00% | 75.00% | 75.00% |
 
 ## Threshold Definitions

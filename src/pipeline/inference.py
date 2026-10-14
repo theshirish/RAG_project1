@@ -17,16 +17,20 @@ class InferencePipeline:
         self.top_k = top_k or getattr(settings, "TOP_K", 5)
 
         reranker = None
+        logger.info(f"Reranker usage is set to: {getattr(settings, 'USE_RERANKER', False)}")
         if getattr(settings, "USE_RERANKER", False):
             from rag.reranker import RerankerFactory
 
             reranker = RerankerFactory.get_reranker()
 
         logger.info(f"Using top_k={self.top_k} for retrieval and reranking using reranker {reranker}.")
+        
         self.vector_store = VectorStoreFactory.get_vector_store()
         logger.info(f"Vector store configured: {self.vector_store.__class__.__name__}")
+        
         self.retriever = DenseRetriever(self.vector_store, reranker=reranker)
         logger.info(f"DenseRetriever initialized with vector store: {self.vector_store.__class__.__name__} and reranker: {reranker.__class__.__name__ if reranker else 'None'}")
+        
         self.generator = LLMGenerator()
         # logger.info(f"LLMGenerator initialized with model: {self.generator.model_name}")
 
